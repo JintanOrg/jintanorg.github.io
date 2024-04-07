@@ -1,8 +1,1 @@
-readme_index:
-  enabled:          true
-  remove_originals: true
-  with_frontmatter: false
-titles_from_headings:
-  enabled:     false
-  strip_title: false
-  collections: false
+title: null
